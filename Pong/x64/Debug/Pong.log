@@ -1,2 +1,8 @@
 ﻿  main.cpp
+Z:\Home\Work\C++\Pong\Pong\main.cpp(12,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Home\Work\C++\Pong\Pong\main.cpp(12,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Home\Work\C++\Pong\Pong\main.cpp(58,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Z:\Home\Work\C++\Pong\Pong\main.cpp(84,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Z:\Home\Work\C++\Pong\Pong\main.cpp(151,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Z:\Home\Work\C++\Pong\Pong\main.cpp(152,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Pong.vcxproj -> Z:\Home\Work\C++\Pong\x64\Debug\Pong.exe
